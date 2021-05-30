@@ -1,4 +1,4 @@
-//Author - Vinit Shahdeo
+//Author - Ayush Kumar
 //Smooth Scrolling
 $(function() {
     $('a.page-scroll').bind('click', function(event) {

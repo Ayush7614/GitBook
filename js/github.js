@@ -1,6 +1,6 @@
 /**
  * 
- * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ * @author Ayush Kumar <ayushknj3@gmail.com>
  */
 $(function() {
 
