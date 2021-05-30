@@ -241,7 +241,7 @@ $(function() {
 
 
 
-                        outhtml = outhtml + '<div class="credit"><p><a href="#jumptotop"><center><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></center></a></p><hr><a href="https://github.com/Ayush7614" target="_blank"><i class="fa fa-github"></i></a><br><span>Made with <i class="fa fa-heart faa-pulse animated fa-4x"></i> by <a href="https://www.facebook.com/" target="_blank">Ayush7614</a></span><br/><span class="github-logo1">GitHub <span class="lookbook">LookBook</span> &copy; 2021</div>';
+                        outhtml = outhtml + '<div class="credit"><p><a href="#jumptotop"><center><i class="fa fa-chevron-circle-up" aria-hidden="true"></i></center></a></p><hr><a href="https://github.com/Ayush7614" target="_blank"><i class="fa fa-github"></i></a><br><span>Made with <i class="fa fa-heart faa-pulse animated fa-4x"></i> by <a href="https://www.facebook.com/" target="_blank">Ayush7614</a></span><br/><span class="github-logo1">Git <span class="lookbook">Book</span> &copy; 2021</div>';
 
                     }
 

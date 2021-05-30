@@ -1,4 +1,4 @@
-# GitHub LookBook  [:mag_right:](https://vinitshahdeo.github.io/GitHubLookBook/)
+# GitBook  [:mag_right:](https://ayush7614.github.io/GitBook/)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ayush7614/GitBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/Ayush7614/GitBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ayush7614)
 
