@@ -29,9 +29,8 @@ Other features help you to -
 
 ### Author
 
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/0)](https://sourcerer.io/fame/Ayush7614/vinitshahdeo/GitHubLookBook/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/7)
 
-#### [Vinit Shahdeo](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)
+#### [Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)
 
 
 [![octocat](./demo/forkit.gif)](https://vinitshahdeo.github.io/GitHubLookBook/)
