@@ -1,10 +1,9 @@
 # GitHub LookBook  [:mag_right:](https://vinitshahdeo.github.io/GitHubLookBook/)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/GitHubLookBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/vinitshahdeo/GitHubLookBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ayush7614/GitBook?logo=github) ![GitHub last commit](https://img.shields.io/github/last-commit/Ayush7614/GitBook?logo=github) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Ayush7614)
 
 <br>
 
-## [Look up](https://vinitshahdeo.github.io/GitHubLookBook/) the GitHub profiles with better UI experience.
 
 > **Click [here](https://vinitshahdeo.github.io/GitHubLookBook/) to view live demo.**
 
@@ -30,11 +29,10 @@ Other features help you to -
 
 ### Author
 
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/7)
+[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/0)](https://sourcerer.io/fame/Ayush7614/vinitshahdeo/GitHubLookBook/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/GitHubLookBook/links/7)
 
-#### [Vinit Shahdeo](https://www.linkedin.com/in/vinitshahdeo/)
+#### [Vinit Shahdeo](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/Vinit_Shahdeo.svg?style=social)](https://twitter.com/Vinit_Shahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)
 
 [![octocat](./demo/forkit.gif)](https://vinitshahdeo.github.io/GitHubLookBook/)
 
@@ -53,5 +51,5 @@ if (isAwesome) {
 
 <br>
 
-[![O2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/vinitshahdeo)  [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/vinitshahdeo) [![SFW](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://github.com/vinitshahdeo)
+[![O2](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/Ayush7614) [![BUILT WITH LOVE](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Ayush7614)  [![SMILE](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/Ayush7614) [![SFW](https://forthebadge.com/images/badges/kinda-sfw.svg)](https://github.com/Ayush7614)
 
