@@ -4,6 +4,11 @@
 
 <br>
 
+ <p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/GitBook/blob/main/img/manufacturetocat.png" width=400px, height=400px /> +    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/GitBook/blob/main/img/Octat.gif" width=400px, height=400px /> + </a> 
+ </a> 
+</p>
+
 
 > **Click [here](https://ayush7614.github.io/GitBook/) to view live demo.**
 
